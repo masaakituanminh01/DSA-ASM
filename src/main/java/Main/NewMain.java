@@ -9,7 +9,7 @@ import java.util.Scanner;
 import HandleMessage.*;
 /**
  *
- * @author ducmy
+ * @author admin
  */
 public class NewMain {
     public static void main(String[] args) {
